@@ -1,4 +1,4 @@
-#Projeto React + Java Script
+# Projeto React + Java Script
 
 Nesse projeto foi criado um gerador de cards que separa os destinos turisticos que deseja fazer em tipos de destino e deixando tudo organizado.
 Utilizei o react como aprimorador das habilidades aprendidas em java script 
