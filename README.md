@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+#Projeto React + Java Script
+
+Nesse projeto foi criado um gerador de cards que separa os destinos turisticos que deseja fazer em tipos de destino e deixando tudo organizado.
+Utilizei o react como aprimorador das habilidades aprendidas em java script 
+
+## Stack utilizada
+React + Javascript
+
+# Inicie com Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Como Fazer o código funcionar no seu computador 
 
 In the project directory, you can run:
 
